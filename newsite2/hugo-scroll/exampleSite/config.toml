@@ -60,5 +60,11 @@ title = "Eco-Hack Youth"
 
     [params.contact]
         email = "ecohackyouth@gmail.com"
-       
-    
+       instagram = "ecohack_youth"
+    [Params.social.share]
+    facebook = false
+    linkedin = false
+    twitter = false
+    whatsapp = false
+    instagram = true
+    email = true
